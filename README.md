@@ -15,7 +15,7 @@ However, by distributing these food leftovers to people who are unable to afford
 ### KEY USER GROUPS
 
 * Food & Beverage organisations
-* Food Charities 
+* Food Charities/ NGOs
 
 ### FEATURES
 
